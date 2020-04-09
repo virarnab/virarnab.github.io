@@ -1,0 +1,41 @@
+body{
+  background: #D6DBDF;
+}
+.container{
+  width:900px;
+  height:900px;
+  margin : 0 auto;
+}
+.header{
+  background : #0000CC;
+  padding: 3px 0 10px 10px;
+}
+.header a{
+  color :  #00FFFF;
+}
+.header a:hover{
+  color :  black;
+}
+.men{
+  height : 700px;
+  background-image: url(d2.jpg);
+  padding: 500px 150px 100px 200px;
+
+}
+.men a{
+  color : yellow;
+  border : 5px white bold;
+  font-size: 35px;
+  float: none;
+}
+.men a:hover{
+  color : #003300;
+  background : yellow;
+  border : 1px red bold;
+}
+p{
+  font-size: 50px;
+  color : white;
+  font-family: fantasy;
+  text-align: justify;
+}

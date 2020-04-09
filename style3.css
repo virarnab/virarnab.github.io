@@ -1,0 +1,69 @@
+body{
+    background: #D6DBDF;
+}
+.container{
+  width : 1000px;
+  margin : 0 auto;
+  background : #E0F7FA;
+}
+.header{
+  padding : 20px;
+  border : 3px solid #212121;
+
+}
+.menu{
+  background : #0000CC;
+  padding: 3px 0 10px 10px;
+}
+.menu a{
+  color : #00FFFF;
+
+}
+.menu a:hover{
+  color : black;
+}
+.main{
+  padding-top: 50px;
+  padding-right: 20px;
+  margin : 0 0 20px 180px;
+  line-height: 20px;
+  font-size: 18px;
+  color : black;
+  font-style: normal;
+  font-family: arial;
+
+}
+footer{
+  padding: 6px 40px 6px 40px;
+  background : #5D6D7E;
+  width: 915px;
+  margin : 0 auto;
+  color : red;
+  }
+  .linktitle{
+    text-decoration: none;
+    font-size: 20px;
+    color : gold;
+
+  }
+  .klkl{
+    line-height: 50px;
+    background-color: #FFEE58;
+    padding-left: 330px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
+
+
+
+  .apj{
+    padding-left: 300px;
+  }
+  .jain{
+    padding-left: 300px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+.main a:hover{
+  colour : red;
+}

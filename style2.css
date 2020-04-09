@@ -1,0 +1,160 @@
+body{
+    background: #D6DBDF;
+}
+
+
+.container{
+  width : 1000px;
+  margin : 0 auto;
+  background : #E0F7FA;
+}
+.header{
+  padding : 20px;
+  border : 3px solid #212121;
+
+}
+.menu{
+  background : #0000CC;
+  padding: 3px 0 10px 10px;
+}
+.menu a{
+  color : #00FFFF;
+
+}
+.menu a:hover{
+  color : black;
+}
+.main{
+  padding-right: 20px;
+  margin : 0 0 20px 180px;
+  line-height: 20px;
+  font-size: 18px;
+  color : black;
+  font-style: normal;
+  font-family: arial;
+
+}
+footer{
+  padding: 6px 40px 6px 40px;
+  background : #5D6D7E;
+  width: 915px;
+  margin : 0 auto;
+  color : red;
+  }
+.linktitle{
+  text-decoration: none;
+  font-size: 20px;
+  color : gold;
+
+}
+
+#image{
+  padding-top: 10px;
+}
+.ac{
+  font-size: 25px;
+  color : gold;
+  font-style: normal;
+  font-family: fantasy;
+}
+.progress:hover .color{
+
+  height: 100%;
+  color: #fff;
+  text-align: center;
+  background: blue;
+}
+
+.progress{
+  overflow: hidden;
+  height: 20px;
+  background: grey;
+  border-radius: 5px;
+  margin-bottom: 0.6rem;
+}
+.container2 {
+    max-width: 1140px;
+    margin: auto;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.section-title {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-bottom: 40px;
+}
+.services .service-content {
+    flex: 0 0 100%;
+    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.services .service-content .box {
+    color : black;
+    background-color: white;
+    padding: 30px;
+    flex: 0 0 calc(33.33% - 20px);
+    max-width: calc(33.33% -20px);
+    margin-bottom: 30px;
+    border: 1px solid #eeeeee;
+    text-align: center;
+    position: relative;
+    border-radius: 5px;
+}
+.services .service-content .box .icon {
+    height: 70px;
+    width: 70px;
+    background-color: gold;
+    margin: 15px auto 20px;
+    border-radius: 50%;
+    text-align: center;
+    border-radius: 3px;
+}
+.services .service-content .box .icon .fa {
+    font-size: 25px;
+    color: white;
+    line-height: 60px;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
+.services .service-content .box .icon:hover {
+  background-color: red;
+}
+.services .service-content .box:hover {
+    color : white;
+    background-color: black;
+  }
+.end{
+  float : right;
+}
+.noah{
+ line-height: 30px;
+}
+.noah a:hover{
+  color : black;
+}
+.klkl{
+  line-height: 50px;
+  background-color: #FFEE58;
+  padding-left: 330px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+
+
+.apj{
+  padding-left: 300px;
+}
+.jain{
+  padding-left: 300px;
+  font-size: 20px;
+  font-weight: bold;
+}
